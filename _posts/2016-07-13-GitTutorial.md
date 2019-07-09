@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Git教程"
+title: "Git使用教程"
 date: 2016-07-13   
-tag: 工具 
+tag: 技术工具教程
 ---
 
 ### 介绍       
@@ -56,7 +56,7 @@ tag: 工具
 
 ### 其它   
 
-git branc 查看时如出现
+git branch 查看时如出现
 
 >*  (HEAD detached at analytics_v2)   
 >*  dev
