@@ -5,7 +5,7 @@ date: 2019-07-12
 tag: 技术工具教程
 ---
 
-###Mac 环境下Ruby相关解释
+### Mac 环境下Ruby相关解释
 
 * Homebrew是Mac OSX上的软件包管理工具，能在Mac中方便的安装软件或者卸载软件
 
