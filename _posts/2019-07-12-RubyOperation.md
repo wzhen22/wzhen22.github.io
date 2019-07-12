@@ -1,7 +1,9 @@
+---
 layout: post
 title: "Ruby环境常使参考"
 date: 2019-07-12   
 tag: 技术工具教程
+---
 
 ###Mac 环境下Ruby相关解释
 
